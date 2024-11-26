@@ -13,7 +13,7 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${BLUE}[+]                  © LYDIAA STORE                 [+]${NC}"
+  echo -e "${BLUE}[+]                  © LYDIAA HOST                 [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -23,7 +23,7 @@ display_welcome() {
   echo -e "𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 :"
   echo -e "@6283163553339"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@Lydiaa"
+  echo -e "@LydiaaHosting"
   sleep 4
   clear
 }
