@@ -67,7 +67,7 @@ check_token() {
   else
     echo -e "${GREEN}Buy dulu Gih Ke Lydia${NC}"
     echo -e "${YELLOW}WHATSAPP : 6283163553339${NC}"
-    echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
+    echo -e "${YELLOW}HARGA TOKEN : 20K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
     echo -e "${YELLOW}©Lydia${NC}"
     exit 1
   fi
@@ -489,7 +489,7 @@ EOF
 
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
-  echo -e "${GREEN}[+]                  AUTO INSTALL SUKSE             [+]${NC}"
+  echo -e "${GREEN}[+]                 AUTO INSTALL SUKSES             [+]${NC}"
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   sleep 2
@@ -509,7 +509,7 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Lydia   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Token Installer Lydia   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
   echo -e "${RED}ggg:     gg.     -   ,ggg       • WhatsApp : 6283163553339   ${NC}"
   echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : Lydiaa  ${NC}"
