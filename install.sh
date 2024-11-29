@@ -504,40 +504,23 @@ check_token
 while true; do
   clear
   echo -e "                                                                     "
-  echo -e "${RED}        _,gggggggggg.                                     ${NC}"
-  echo -e "${RED}    ,ggggggggggggggggg.                                   ${NC}"
-  echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
-  echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
-  echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Token Installer Lydia   ${NC}"
-  echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${RED}ggg:     gg.     -   ,ggg       • WhatsApp : 6283163553339   ${NC}"
-  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : Lydiaa  ${NC}"
-  echo -e "${RED} ggg.    '.'''ggggggp           • Support by Lydiacantik  ${NC}"
-  echo -e "${RED}  'ggg    '-.__                                           ${NC}"
-  echo -e "${RED}    ggg                                                   ${NC}"
-  echo -e "${RED}      ggg                                                 ${NC}"
-  echo -e "${RED}        ggg.                                              ${NC}"
-  echo -e "${RED}          ggg.                                            ${NC}"
-  echo -e "${RED}             b.                                           ${NC}"
-  echo -e "                                                                     "
-
-  ⠄⣾⣿⡇⢸⣿⣿⣿⠄⠈⣿⣿⣿⣿⠈⣿⡇⢹⣿⣿⣿⡇⡇⢸⣿⣿⡇⣿⣿⣿
-⢠⣿⣿⡇⢸⣿⣿⣿⡇⠄⢹⣿⣿⣿⡀⣿⣧⢸⣿⣿⣿⠁⡇⢸⣿⣿⠁⣿⣿⣿
-⢸⣿⣿⡇⠸⣿⣿⣿⣿⡄⠈⢿⣿⣿⡇⢸⣿⡀⣿⣿⡿⠸⡇⣸⣿⣿⠄⣿⣿⣿
-⢸⣿⡿⠷⠄⠿⠿⠿⠟⠓⠰⠘⠿⣿⣿⡈⣿⡇⢹⡟⠰⠦⠁⠈⠉⠋⠄⠻⢿⣿
-⢨⡑⠶⡏⠛⠐⠋⠓⠲⠶⣭⣤⣴⣦⣭⣥⣮⣾⣬⣴⡮⠝⠒⠂⠂⠘⠉⠿⠖⣬
-⠈⠉⠄⡀⠄⣀⣀⣀⣀⠈⢛⣿⣿⣿⣿⣿⣿⣿⣿⣟⠁⣀⣤⣤⣠⡀⠄⡀⠈⠁
-⠄⠠⣾⡀⣾⣿⣧⣼⣿⡿⢠⣿⣿⣿⣿⣿⣿⣿⣿⣧⣼⣿⣧⣼⣿⣿⢀⣿⡇⠄
-⡀⠄⠻⣷⡘⢿⣿⣿⡿⢣⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣜⢿⣿⣿⡿⢃⣾⠟⢁⠈
-⢃⢻⣶⣬⣿⣶⣬⣥⣶⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣷⣶⣶⣾⣿⣷⣾⣾⢣
-⡄⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠘
-⣿⡐⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢠⢃
-⣿⣷⡀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⡿⠋⢀⠆⣼
-⣿⣿⣷⡀⠄⠈⠛⢿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⠿⠋⠠⠂⢀⣾⣿
-⣿⣿⣿⣧⠄⠄⢵⢠⣈⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢋⡁⢰⠏⠄⠄⣼⣿⣿
-⢻⣿⣿⣿⡄⢢⠨⠄⣯⠄⠄⣌⣉⠛⠻⠟⠛⢋⣉⣤⠄⢸⡇⣨⣤⠄⢸⣿⣿⣿
-
+  echo -e "${BLUE}        _,gggggggggg.                                     ${NC}"
+  echo -e "${BLUE}    ,ggggggggggggggggg.                                   ${NC}"
+  echo -e "${BLUE}  ,ggggg        gggggggg.                                 ${NC}"
+  echo -e "${BLUE} ,ggg'               'ggg.                                ${NC}"
+  echo -e "${BLUE}',gg       ,ggg.      'ggg:                               ${NC}"
+  echo -e "${BLUE}'ggg      ,gg'''  .    ggg       Token Installer Lydia   ${NC}"
+  echo -e "${BLUE}gggg      gg     ,     ggg      ------------------------  ${NC}"
+  echo -e "${BLUE}ggg:     gg.     -   ,ggg       • WhatsApp : 6283163553339   ${NC}"
+  echo -e "${BLUE} ggg:     ggg._    _,ggg        • Creadit  : Lydiaa  ${NC}"
+  echo -e "${BLUE} ggg.    '.'''ggggggp           • Support by lydiaaShop  ${NC}"
+  echo -e "${BLUE}  'ggg    '-.__                                           ${NC}"
+  echo -e "${BLUS}    ggg                                                   ${NC}"
+  echo -e "${BLUE}      ggg                                                 ${NC}"
+  echo -e "$BLUE}        ggg.                                              ${NC}"
+  echo -e "${BLUE}          ggg.                                            ${NC}"
+  echo -e "${BLUE}             b.                                           ${NC}"
+  echo -e "                                                                     
   echo -e "BERIKUT LIST INSTALL :"
   echo "1. Install theme"
   echo "2. Uninstall theme"
